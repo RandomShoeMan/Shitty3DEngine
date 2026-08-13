@@ -1,3 +1,0 @@
-C:/CPP_Projects/3DEngine/build/CMakeFiles/3DEngine.dir
-C:/CPP_Projects/3DEngine/build/CMakeFiles/edit_cache.dir
-C:/CPP_Projects/3DEngine/build/CMakeFiles/rebuild_cache.dir
